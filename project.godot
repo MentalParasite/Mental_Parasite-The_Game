@@ -12,7 +12,7 @@ config_version=5
 
 config/name="Mental_Parasite-The_Game"
 config/features=PackedStringArray("4.4", "GL Compatibility")
-config/icon="res://icon.svg"
+config/icon="res://Icons/icon.svg"
 
 [dotnet]
 
