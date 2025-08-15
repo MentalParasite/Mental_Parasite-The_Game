@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bvwlv83c4bntk"
+path="res://.godot/imported/Inner Void Theme.wav-40d1b574e6f2e115bece769b3cd1fb68.sample"
+
+[deps]
+
+source_file="res://Sounds/Inner Void Theme.wav"
+dest_files=["res://.godot/imported/Inner Void Theme.wav-40d1b574e6f2e115bece769b3cd1fb68.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

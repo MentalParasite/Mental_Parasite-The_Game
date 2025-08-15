@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ciyvdms81rtq"
+path="res://.godot/imported/ISOxo - inhuman(MP3_320K).mp3-ebab04d7abb3fc560205c257bb0b0d38.mp3str"
+
+[deps]
+
+source_file="res://Sounds/ISOxo - inhuman(MP3_320K).mp3"
+dest_files=["res://.godot/imported/ISOxo - inhuman(MP3_320K).mp3-ebab04d7abb3fc560205c257bb0b0d38.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

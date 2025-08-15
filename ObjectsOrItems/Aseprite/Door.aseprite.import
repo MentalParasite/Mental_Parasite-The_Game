@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://b6qmv35m8a74f"
+path="res://.godot/imported/Door.aseprite-dca081a36e4ddd410acd81a635b908a3.res"
+
+[deps]
+
+source_file="res://ObjectsOrItems/Aseprite/Door.aseprite"
+dest_files=["res://.godot/imported/Door.aseprite-dca081a36e4ddd410acd81a635b908a3.res"]
+
+[params]
+

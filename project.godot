@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Mental_Parasite-The_Game"
+run/main_scene="uid://b41aekvp06tiw"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://Icons/icon.svg"
 
@@ -18,7 +19,12 @@ config/icon="res://Icons/icon.svg"
 
 project/assembly_name="Mental_Parasite-The_Game"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/AsepriteWizard/plugin.cfg", "res://addons/aseprite_helper/animation/plugin.cfg", "res://addons/aseprite_helper/texture/plugin.cfg", "res://addons/aseprite_importer/plugin.cfg", "res://addons/nklbdev.aseprite_importers/plugin.cfg")
+
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
